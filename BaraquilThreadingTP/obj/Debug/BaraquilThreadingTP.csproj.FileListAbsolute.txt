@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\bin\Debug\BaraquilThreadingTP.exe.config
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\bin\Debug\BaraquilThreadingTP.exe
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\bin\Debug\BaraquilThreadingTP.pdb
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.frmTrackThread.resources
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.exe
+C:\Users\ComputerLab4PC1\source\repos\BaraquilThreadingTP\obj\Debug\BaraquilThreadingTP.pdb
