@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\bin\Debug\Baraquil_Streams_1.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\bin\Debug\Baraquil_Streams_1.exe
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\bin\Debug\Baraquil_Streams_1.pdb
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.exe
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.pdb
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Baraquil_Streams_1.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Baraquil_Streams_1\obj\Debug\Account_Registration.FormRegistration.resources
